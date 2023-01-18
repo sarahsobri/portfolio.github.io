@@ -74,7 +74,7 @@
 
 #### Result Summary
 
-##### Upon completeing the analysis, we have found that the best model that outperforms the rest is the random forest with SMOTE with precision of 88% and recall of approximately 85%. Morever, the model achieved an overall accuracy of approximately 100%. 
+##### Upon completeing the analysis, we have found that the best model that outperforms the rest with the best-balanced trade-off is the random forest with SMOTE with precision of 88% and recall of approximately 85%. Morever, the model achieved an overall accuracy of approximately 100%. 
 
 ![](https://github.com/sarahsobri/sarah_portfolio.github.io/blob/main/images/Final%20Result.png)
 

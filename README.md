@@ -40,7 +40,7 @@
 
 ##### The dataset contains no null values by default. However, it contained 1081 duplicate values. 
 
-![](https://github.com/sarahsobri/sarah_portfolio.github.io/blob/main/images/Remove%20duplicates.png)
+![](https://github.com/sarahsobri/sarah_portfolio.github.io/blob/main/images/Remove%20duplicates.png =250x250)
 
 ![](https://github.com/sarahsobri/sarah_portfolio.github.io/blob/main/images/Data%20summary%20after%20removing%20duplicates.png)
 

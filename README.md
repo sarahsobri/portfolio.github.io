@@ -1,6 +1,6 @@
 # sarah_portfolio.github.io
 
-# [Project 1 : Credit-Card-Fraud-Detection-Under-Extreme-Imbalanced-Data (Project Overview)] (https://github.com/sarahsobri/Credit-Card-Fraud-Detection-Under-Extreme-Imbalanced-Data)
+# [Project 1 : Credit-Card-Fraud-Detection-Under-Extreme-Imbalanced-Data : Project Overview](https://github.com/sarahsobri/Credit-Card-Fraud-Detection-Under-Extreme-Imbalanced-Data)
 
 ##### Due to the small number of cases of one class, the machine learning model struggles to generalise the behaviour of the minority class, resulting in poor predicted accuracy (Japkowicz & Stephen, 1998). This has hampered the ability of numerous models to function to their full capacity in tackling this long-standing issue. As a result, multiple resampling approaches will be used in this project, including:
 

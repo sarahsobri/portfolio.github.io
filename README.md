@@ -34,7 +34,7 @@
 
 ##### Skimpy is a lightweight programme that also offers summary statistics for datagram variables.There are 284807 rows and 31 columns, as we can see. No data is missing.   
 
-![]([https://github.com/sarahsobri/sarah_portfolio.github.io/blob/main/images/EDA.png](https://github.com/sarahsobri/sarah_portfolio.github.io/blob/main/images/Descriptive%20Analysis.png)
+![]([https://github.com/sarahsobri/sarah_portfolio.github.io/blob/main/images/EDA.png](https://github.com/sarahsobri/sarah_portfolio.github.io/blob/main/images/Descriptive%20Analysis.png =250x250)
 
 #### Removing Duplicates
 

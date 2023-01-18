@@ -36,12 +36,6 @@
 
 ![]([https://github.com/sarahsobri/sarah_portfolio.github.io/blob/main/images/EDA.png](https://github.com/sarahsobri/sarah_portfolio.github.io/blob/main/images/Descriptive%20Analysis.png)
 
-#### Correlation Plot
-
-##### According to the correlation matrix, none of the V1 through V28 principal components are related to each other. However, if we look closer, we can see that the 'Amount' variable has a -0.53 negative correlation with the principal component 'V2.'
-
-![](https://github.com/sarahsobri/sarah_portfolio.github.io/blob/main/images/Correlation%20Plot.png)
-
 #### Removing Duplicates
 
 ##### The dataset contains no null values by default. However, it contained 1081 duplicate values. 
